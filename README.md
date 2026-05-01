@@ -5,8 +5,8 @@ VectorVoyage is a solution for querying datasets with 100% efficiency using Elas
 ## Key Technologies:
 
 Elasticsearch: For efficient data querying.
-FastAPI: A modern, fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints.
-React: A JavaScript library for building user interfaces, primarily used here in TypeScript to create a responsive and interactive front-end.
+FastAPI: A modern, fast (high-performance) web framework for building APIs with Python 3.7+ .
+React: via TypeScript as user interfaces.
 
 
 ![VectorVoyage app screenshot](screenshot.gif)
