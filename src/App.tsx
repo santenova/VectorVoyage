@@ -87,7 +87,7 @@ export default function App() {
   return (
     <Container fluid="md" className="App">
       <Row>
-        <h1>VectorVoyage</h1>
+        <h1><img src="/public/logo.png" /></h1>
         <Form onSubmit={onSearch} className="SearchForm">
           <Stack direction="horizontal" gap={2}>
             <Form.Control type="text" placeholder="Search for... ?" ref={inputRef} autoFocus={true} />
