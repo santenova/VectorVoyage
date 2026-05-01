@@ -9,7 +9,7 @@ FastAPI: A modern, fast (high-performance) web framework for building APIs with 
 React: A JavaScript library for building user interfaces, primarily used here in TypeScript to create a responsive and interactive front-end.
 
 
-![VectorVoyage app screenshot](screenshot.png)
+![VectorVoyage app screenshot](screenshot.gif)
 
 ## What is this?
 
